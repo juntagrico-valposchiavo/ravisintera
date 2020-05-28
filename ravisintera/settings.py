@@ -162,8 +162,8 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "1234",
             "NAME" : "ABS",
             "ESR" : ""}
 INFO_EMAIL = "juntagrico.valposchiavo@gmail.com"
-SERVER_URL = "www.ravisintera.org"
+SERVER_URL = "www.ravisintera.com"
 ADMINPORTAL_NAME = "my.ravisintera"
-ADMINPORTAL_SERVER_URL = "my.ravisintera.ch"
+ADMINPORTAL_SERVER_URL = "https://ravisintera.juntagrico.science"
 SHARE_PRICE = "100"
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
