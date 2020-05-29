@@ -166,4 +166,4 @@ SERVER_URL = "www.ravisintera.com"
 ADMINPORTAL_NAME = "my.ravisintera"
 ADMINPORTAL_SERVER_URL = "https://ravisintera.juntagrico.science"
 SHARE_PRICE = "100"
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+DEFAULT_MAILER = 'ravisintera.mailer.Mailer'
