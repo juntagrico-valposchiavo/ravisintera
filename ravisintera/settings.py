@@ -151,11 +151,11 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 ORGANISATION_NAME = "Ravis in Tera"
 ORGANISATION_LONG_NAME = "Ravis in Tera"
 ORGANISATION_ADDRESS = {"name":"Ravis in Tera", 
-            "street" : "Via da Mezz",
-            "number" : "69",
+            "street" : "Via da li Clüsüri",
+            "number" : "47",
             "zip" : "7742",
             "city" : "Poschiavo",
-            "extra" : "N/A"}
+            "extra" : "Annina Raselli"}
 ORGANISATION_BANK_CONNECTION = {"PC" : "1234",
             "IBAN" : "CH1234",
             "BIC" : "BICYOURSELF",
