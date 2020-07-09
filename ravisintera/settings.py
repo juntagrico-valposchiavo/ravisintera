@@ -156,14 +156,15 @@ ORGANISATION_ADDRESS = {"name":"Ravis in Tera",
             "zip" : "7742",
             "city" : "Poschiavo",
             "extra" : "Annina Raselli"}
-ORGANISATION_BANK_CONNECTION = {"PC" : "1234",
-            "IBAN" : "CH1234",
-            "BIC" : "BICYOURSELF",
-            "NAME" : "ABS",
+ORGANISATION_BANK_CONNECTION = {"PC" : "",
+            "IBAN" : "CH4700774010395347700",
+            "BIC" : "",
+            "NAME" : "Graubündner Kantonalbank",
             "ESR" : ""}
 INFO_EMAIL = "juntagrico.valposchiavo@gmail.com"
 SERVER_URL = "www.ravisintera.com"
 ADMINPORTAL_NAME = "my.ravisintera"
 ADMINPORTAL_SERVER_URL = "https://ravisintera.juntagrico.science"
-SHARE_PRICE = "100"
+SHARE_PRICE = "50"
 DEFAULT_MAILER = 'ravisintera.mailer.Mailer'
+BYLAWS = "https://449f11ee-d3df-49ec-b517-64c66e1cafa7.filesusr.com/ugd/5d5472_17e1fef49ee445fba5783b14daf81143.pdf"
