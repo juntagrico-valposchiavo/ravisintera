@@ -72,6 +72,7 @@ WSGI_APPLICATION = 'ravisintera.wsgi.application'
 
 
 LANGUAGE_CODE = 'de'
+TIME_ZONE = 'Europe/Zurich'
 
 SITE_ID = 1
 
