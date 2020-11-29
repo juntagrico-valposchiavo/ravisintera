@@ -156,7 +156,7 @@ ORGANISATION_ADDRESS = {"name":"Ravis in Tera",
             "number" : "47",
             "zip" : "7742",
             "city" : "Poschiavo",
-            "extra" : "Annina Raselli"}
+            "extra" : "Irena Vassella"}
 ORGANISATION_BANK_CONNECTION = {"PC" : "",
             "IBAN" : "CH4700774010395347700",
             "BIC" : "",
@@ -171,5 +171,5 @@ DEFAULT_MAILER = 'ravisintera.mailer.Mailer'
 
 ## Ravis in tera configuration (will, 9th July 2020):
 BYLAWS = "https://449f11ee-d3df-49ec-b517-64c66e1cafa7.filesusr.com/ugd/5d5472_17e1fef49ee445fba5783b14daf81143.pdf"
-ENABLE_SHARES = True
+ENABLE_SHARES = False
 BASE_FEE = "50"
