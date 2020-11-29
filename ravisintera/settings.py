@@ -171,5 +171,5 @@ DEFAULT_MAILER = 'ravisintera.mailer.Mailer'
 
 ## Ravis in tera configuration (will, 9th July 2020):
 BYLAWS = "https://449f11ee-d3df-49ec-b517-64c66e1cafa7.filesusr.com/ugd/5d5472_17e1fef49ee445fba5783b14daf81143.pdf"
-ENABLE_SHARES = False
+ENABLE_SHARES = True
 BASE_FEE = "50"
